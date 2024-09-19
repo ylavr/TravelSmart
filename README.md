@@ -1,10 +1,14 @@
 # TravelSmart
 TravelSmart is the ultimate travel planning app that consolidates all your essential travel information into one convenient platform. This app offers a comprehensive set of features designed to streamline your travel experience, from booking flights and accommodations to exploring local cultures and cuisines.
 
-# Features
+## Features :
+
 1)Flights & Accommodations: Search and book flights and hotels.
+
 2)Weather & Packing: Get weather updates and packing suggestions.
+
 3)Cultural Insights & Cuisine: Learn about local culture and cuisine.
+
 4)Currency Converters & Phrasebook: Convert currencies and translate phrases.
 
 # APIs and Data Sources
