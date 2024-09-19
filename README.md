@@ -11,7 +11,7 @@ TravelSmart is the ultimate travel planning app that consolidates all your essen
 
 4)Currency Converters & Phrasebook: Convert currencies and translate phrases.
 
-# APIs and Data Sources
+## APIs and Data Sources
 Flights:
 Flight Offers Search: Amadeus API
 Mapping IATA Codes and City Names: Amadeus API
