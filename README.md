@@ -37,3 +37,4 @@ weatherwidget.io
 Currency Converter: 
 RapidAPI Currency Conversion and Exchange Rates
 
+![app view](https://github.com/user-attachments/assets/577d7eeb-74e8-4150-9aa1-34eff403d049)
